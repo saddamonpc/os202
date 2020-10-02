@@ -9,6 +9,7 @@ ZCZC W01 20 L99 Browsing the web for entertainment
 ZCZC W01 40 L04 Figuring out how to add a page
 ZCZC W01 60 L06 Reading Supplementary OS Textbook
 ZCZC W01 120 L10 Compile Top 10 List for Week 0 and 1
+ZCZC W02 30 L13 Export mypubkey.txt
 
 
 

@@ -12,6 +12,9 @@ ZCZC W01 120 L10 Compile Top 10 List for Week 0 and 1
 ZCZC W02 30 L12 Export mypubkey.txt
 ZCZC W02 30 L12 Review other people's top 10s
 ZCZC W02 60 L12 Finalize Top 10 List for Week 2
+ZCZC W03 120 L02 Zoom lecture on Tuesday
+ZCZC W03 180 L13 Finish week 3 assignment and Top 10 List for Week 3
+ZCZC W03 60 L99 Browsing the web for entertainment, spread out between the assignment.
 
 
 

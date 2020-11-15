@@ -14,6 +14,9 @@ ZCZC W03 rabialco
 ZCZC W04 Abimanyu-TheProgrammer
 ZCZC W04 setoaprasetyo
 ZCZC W04 vianra
-ZCZC W05 temp
-ZCZC W05 temp
-ZCZC W05 temp
+ZCZC W05 setoaprasetyo
+ZCZC W05 baguspr
+ZCZC W05 rabialco
+ZCZC W06 setoaprasetyo
+ZCZC W06 alifyandra
+ZCZC W06 abebrahmana

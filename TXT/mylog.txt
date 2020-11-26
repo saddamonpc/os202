@@ -13,12 +13,14 @@ ZCZC W02 30 L12 Export mypubkey.txt
 ZCZC W02 30 L12 Review other people's top 10s
 ZCZC W02 60 L12 Finalize Top 10 List for Week 2
 ZCZC W03 120 L02 Zoom lecture on Tuesday
-ZCZC W03 180 L13 Finish week 3 assignment and Top 10 List for Week 3
+ZCZC W03 180 L13 Finish week 3 assignment plus Top 10 List for Week 3
 ZCZC W03 60 L99 Browsing the web for entertainment, spread out between the assignment.
-ZCZC W04 90 L02 Zoom lecture on Tuesday
-ZCZC W04 90 L14 Finish week 4 assignment and Top 10 List for Week 4
-ZCZC W05 90 L02 Zoom lecture on Tuesday
-ZCZC W05 90 L15 Finish week 5 assignment and Top 10 List for Week 5
-ZCZC W06 90 L16 Finish week 6 assignment and Top 10 List for Week 6
+ZCZC W04 90 L02 Zoom lecture on Tuesday morning
+ZCZC W04 90 L14 Finish week 4 homework and Top 10 List
+ZCZC W05 90 L02 Zoom lecture at Tuesday
+ZCZC W05 90 L15 Finish week 5 homework and Top 10 List for Week 5
+ZCZC W06 90 L16 Finish week 6 assignment plus Top 10 List Week 6
 ZCZC W07 90 L02 Zoom Lecture on Tuesday
-ZCZC W07 120 L17 Finish week 7 assignment and Top 10 List for Week 7
+ZCZC W07 120 L17 Finish week 7 homework plus Top 10 List
+ZCZC W08 90 L02 Zoom Lecture
+ZCZC W08 60 L18 Progress on week 8 assignment 

@@ -24,4 +24,6 @@ ZCZC W07 90 L02 Zoom Lecture on Tuesday
 ZCZC W07 120 L17 Finish week 7 homework plus Top 10 List
 ZCZC W08 90 L02 Zoom Lecture
 ZCZC W08 60 L18 Progress on week 8 assignment
-ZCZC W08 120 L18 Finish week 8 assignment and made LFSA.ova and LFSB.ova 
+ZCZC W08 120 L18 Finish week 8 assignment and made LFSA.ova and LFSB.ova
+ZCZC W09 90 L02 Zoom lecture for week 9
+ZCZC W09 10 L19 Add token and dummy myW09 tar file

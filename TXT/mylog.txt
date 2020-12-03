@@ -28,3 +28,4 @@ ZCZC W08 120 L18 Finish week 8 assignment and made LFSA.ova and LFSB.ova
 ZCZC W09 90 L02 Zoom lecture for week 9
 ZCZC W09 15 Add week 9 token and update log and rank
 ZCZC W09 20 Fix myw08 tar file missing after messing up week 9 commit. Check commit history for proof of assignment submission time
+ZCZC W09 10 L18 Fix week 8 myW08.tar.bz2.txt file. Hopefully.

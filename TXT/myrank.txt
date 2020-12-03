@@ -23,6 +23,3 @@ ZCZC W06 abebrahmana
 ZCZC W07 setoaprasetyo
 ZCZC W07 abebrahmana
 ZCZC W07 Constantine-Kevin
-ZCZC W08 setoaprasetyo
-ZCZC W08 alifyandra
-ZCZC W08 Constantine-Kevin
